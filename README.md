@@ -33,7 +33,8 @@ Dataset Saas Sales ini memiliki data penjualan software sales dan marketing yang
 1. Pengecekan Outlier
 2. Pengecekan konsistensi data kategorikal
 3. Pengecekan duplikasi data
-4. Mengganti data string/object menjadi datetime
+4. Pengecekan nilai null
+5. Mengganti data string/object menjadi datetime
 
 ## Kesimpulan harap lihat presentasi/deck dan notebook
 Deck: https://docs.google.com/presentation/d/1RaEKf7LEy4T-hETUZnkyR0dO6a-3YWJz0__dDaZBpDo/edit?usp=sharing
