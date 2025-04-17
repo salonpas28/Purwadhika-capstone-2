@@ -37,4 +37,5 @@ Dataset Saas Sales ini memiliki data penjualan software sales dan marketing yang
 
 ## Kesimpulan harap lihat presentasi/deck dan notebook
 Deck: https://docs.google.com/presentation/d/1RaEKf7LEy4T-hETUZnkyR0dO6a-3YWJz0__dDaZBpDo/edit?usp=sharing
+
 Dashboard: https://public.tableau.com/app/profile/leon2007/viz/AWSlossdashboard/Dashboard1
